@@ -1,4 +1,4 @@
-package com.learn.scala.queue
+package com.learn.java.queue
 
 import scala.io.StdIn
 

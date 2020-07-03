@@ -15,6 +15,7 @@
   <modules>
     <module>learn-java</module>
     <module>learn-scala</module>
+    <module>learn-component-zookeeper</module>
   </modules>
 
 </project>

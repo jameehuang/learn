@@ -1,4 +1,4 @@
-package com.learn.scala.sort
+package com.learn.java.sort
 
 import scala.collection.mutable
 import scala.collection.mutable.ArrayBuffer

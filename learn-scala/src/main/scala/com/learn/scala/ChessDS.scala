@@ -1,4 +1,4 @@
-package com.learn.scala
+package com.learn.java
 
 import java.util.Scanner
 

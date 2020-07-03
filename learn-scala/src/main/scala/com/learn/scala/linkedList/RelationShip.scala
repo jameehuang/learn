@@ -1,4 +1,4 @@
-package com.learn.scala.linkedList
+package com.learn.java.linkedList
 
 object RelationShip extends Enumeration {
 

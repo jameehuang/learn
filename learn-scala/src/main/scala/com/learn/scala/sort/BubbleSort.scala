@@ -1,4 +1,4 @@
-package com.learn.scala.sort
+package com.learn.java.sort
 
 object BubbleSort {
 
